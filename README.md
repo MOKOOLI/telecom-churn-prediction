@@ -144,4 +144,3 @@ Based on the analysis:
 
 Feel free to fork, open issues, or use any part of this code.
 
-اگر سوالی داشتی یا خواستی بخشی رو تغییر بدی، بگو.
