@@ -142,5 +142,4 @@ Based on the analysis:
 
 ---
 
-Feel free to fork, open issues, or use any part of this code.
 
